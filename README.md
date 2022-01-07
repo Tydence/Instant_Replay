@@ -1,9 +1,5 @@
 # Instant_Replay
 An instant reply from a webcam using OpenCV and Python
-OpenCV will need to be installed.
-It requires numpy and Matplotlib
-
-This is the basic framework for a super simple instant replay system
 
 The basic outline:
 
